@@ -8,5 +8,5 @@ Stack : R, Python (Scikit, Seaborn, Pandas)
  * Merged and cleaned data to create the dataset
  * EDA
  * Tried predicting the 3 best scores (% of votes) 
-  * Not a great success (overfitting with a MAE of 8%)
-  * Probably due to the lack of data and mistakes in data augmentation method
+   * Not a great success (overfitting with a MAE of 8%)
+   * Probably due to the lack of data and mistakes in data augmentation method
